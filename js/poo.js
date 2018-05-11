@@ -33,16 +33,6 @@ function startShit(){
   }
 };
 
-//Clickable Poo
-// var poop = document.querySelector('.poop');
-// var target = poop.animate([
-//   {transform: 'translate(0)'},
-//   {transform: 'translate(100px, 100px)'}
-// ], 500);
-// target.addEventListener('finish', function() {
-//   poop.style.transform = 'translate(100px, 100px)';
-// });
-
 //Poop Random
 function animatePoop() {
   var poop = $('.poop');
